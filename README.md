@@ -36,14 +36,8 @@ Jei naujai sukurtas main paleidžiamasis failas nepasileidžia, Terminale padary
    kiekis žodis
    ```
 
-   ![image-20200614231755076](C:\Users\aidas\AppData\Roaming\Typora\typora-user-images\image-20200614231755076.png)
-
 2. Sukuria cross-reference tipo lentelę, kurioje nurodoma kiek kartų atitinkamas žodis kartojosi. Lentelė pasiekiama faile `xref.txt`
-
-![image-20200614232135174](C:\Users\aidas\AppData\Roaming\Typora\typora-user-images\image-20200614232135174.png)
 
 Paveikslėlis tik nedidelė failo iškarpa.
 
 3. Taip pat iš teksto yra išrenkami URL adresai, prasidedantys pilnuoju (http/https) arba trumpuoju (www) keliu.
-
-   ![image-20200614232331424](C:\Users\aidas\AppData\Roaming\Typora\typora-user-images\image-20200614232331424.png)
