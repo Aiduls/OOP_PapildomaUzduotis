@@ -1,0 +1,3 @@
+http://www.cplusplus.com/reference/map/multimap/
+www.stackoverflow.com/questions/1878001/how-do-i-check-if-a-c-stdstring-starts-with-a-certain-string-and-convert-a
+https://tvarkarasciai.vu.lt/mif/subjects/objektinis-programavimas/
